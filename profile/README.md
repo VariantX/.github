@@ -1,6 +1,4 @@
-# Variant X
-
-![Variant Long Website](https://user-images.githubusercontent.com/36594527/132168637-781581e3-541b-4291-b216-5c31a16783da.png)
+# ![Variant Long Website](https://user-images.githubusercontent.com/36594527/132168637-781581e3-541b-4291-b216-5c31a16783da.png)
 
 This is the home of the Royal Kingdom. Here you will find treasures, hidden features and more.
 
