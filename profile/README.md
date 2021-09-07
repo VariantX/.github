@@ -15,8 +15,17 @@ Members of the Royal Kingdom can be found on:
 
 As a member of the Royal Kindgom, you'll be given a role:
 - Citizen
-- Royal household
+- Royal army
 - Royal family
+
+Each level of the Royal Kingdom can be obtained by anyone:
+- Citizen: anyone who wants to be in the Royal Kingdom, is in!
+- Royal army: AKA the Royal household. You'll need to be a "follower" to be part of the Royal Army. [Follow Mish on Twitch](https://twitch.tv/MishManners)
+- Royal family: to obtain this level, [subscribe to Mish on Twitch](https://twitch.tv/MishManners).
+
+Members of each level are awarded accordingly. Check out Twitch for more info on levels and rewards.
+
+Above all, this Royal Kingdom is inclusive, friendly, welcoming, fun, and family friendly (that means PG people). Come and enjoy the fruits of the Kingdom. Connect with people, share your highlights, lowlights, achievements, and more.
 
 
 
