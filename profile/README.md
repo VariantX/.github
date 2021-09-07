@@ -10,8 +10,8 @@ The ruler of this Kingdom is a fun, creative, and very bubbly gamer. She also li
 ## Members of the Royal Kingdom
 
 Members of the Royal Kingdom can be found on:
-- [Discord]()
-- [Twitch]()
+- [Discord](https://discordapp.com/invite/f4NFzFt)
+- [Twitch](https://www.twitch.tv/mishmanners/)
 
 As a member of the Royal Kindgom, you'll be given a role:
 - Citizen
