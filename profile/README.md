@@ -6,3 +6,17 @@ The ruler of this Kingdom is a fun, creative, and very bubbly gamer. She also li
 
 <img src="https://github.com/VariantX/.github/blob/main/profile/Mish%20Hacker%20Chibi%20%20Book.png" width="300">
 
+
+## Members of the Royal Kingdom
+
+Members of the Royal Kingdom can be found on:
+- [Discord]()
+- [Twitch]()
+
+As a member of the Royal Kindgom, you'll be given a role:
+- Citizen
+- Royal household
+- Royal family
+
+
+
